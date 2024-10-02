@@ -1,0 +1,7 @@
+.user_container {
+  /* border: 2px solid blue; */
+  margin: 0 auto;
+}
+.user_container > h1 {
+  margin-left: 200px;
+}

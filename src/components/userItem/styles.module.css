@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  gap: 15px;
+  margin: 20px 10px 10px 200px;
+  border: 2px solid rgb(203, 199, 199);
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 0px 12px 16px rgba(0, 0, 0, 0.2), 0px 16px 24px rgba(0, 0, 0, 0.2);
+}
+
+.container > button {
+  border-radius: 15px;
+  width: 90px;
+  border: none;
+}
+.container > button:hover {
+  background-color: darkgray;
+  color: blue;
+}
